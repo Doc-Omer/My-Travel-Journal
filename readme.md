@@ -7,4 +7,4 @@ This was a solo project that I had to do without any walkthrough. This project t
 Link to Scrimba course: https://scrimba.com/learn/learnreact
 
 ![Screenshots](https://github.com/Doc-Omer/My-Travel-Journal/blob/master/public/Screenshot-1.png?raw=true)
-![Screenshots](https://github.com/Doc-Omer/My-Travel-Hournal/blob/master/public/Screenshot-2.png?raw=true)
+![Screenshots](https://github.com/Doc-Omer/My-Travel-Journal/blob/master/public/Screenshot-2.png?raw=true)
